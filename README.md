@@ -71,7 +71,7 @@ python weather_app_gui.py
 ## Project Structure
 ```
 weather-app-python/
-├── weather_app_gui.py      # Main application file
+├── WeatherProject.py.py      # Main application file
 ├── requirements.txt        # Project dependencies
 └── README.md              # This file
 ```
